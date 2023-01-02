@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- *main - Entry point
- *My hello, printf task
- *Return: return 1 after ptogram execution
+ * main - prints the phase with proper grammer,
+ * but the otcome is a piece of art,
+ * Return: return 0 if exited properly, non-zero otherwise
  */
 int main(void)
 {
