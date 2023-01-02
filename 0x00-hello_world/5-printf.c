@@ -7,5 +7,5 @@
 int main(void)
 {
 printf("with proper grammer, but the outcome is a pieceof art,\n");
-return (0);
+return(0);
 }
