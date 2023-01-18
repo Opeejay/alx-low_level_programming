@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints the phase with proper grammer,
- * but the otcome is a piece of art,
- * Return: return 0 if exited properly, non-zero otherwise
+ * main - main program block
+ * Return: 0
  */
 int main(void)
 {
